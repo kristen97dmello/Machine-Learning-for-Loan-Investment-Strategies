@@ -1,6 +1,6 @@
 # Machine-Learning-for-Loan-Investment-Strategies
 
-#Overview
+# Overview
 This project leveraged LendingClub's historical loan data to develop predictive models aimed at optimizing investment strategies for loan defaults. Spanning three key phases—data preparation, model development, and strategy formulation—the initiative provided a comprehensive approach to understanding and capitalizing on peer-to-peer lending opportunities.
 
 Data-driven investment strategies leverage historical data to predict future loan performance, optimizing return on investments through informed decision-making. By analyzing patterns in interest rates, default rates, and borrower creditworthiness, investors can identify loans with the best risk-return balance.
@@ -15,8 +15,8 @@ The project employed a robust data analysis regimen, including:
 - Phase II: Concentrated on data cleaning and preparation, ensuring the quality and reliability of the data for modeling.
 - Phase III: Developed and evaluated multiple predictive models, including Decision Trees, Random Forest, and Neural Networks, to forecast loan performance and guide investment decisions.
 
-#Contents
-CaseStudy_EDA&DataCleaning.ipynb: Includes initial data ingestion, exploratory analysis and data cleaning.
-CaseStudy_Modeling.ipynb: Includes modelling and comparison of 7 models including Decision Tree (DT), Random Forest (RF), (L1 and L2
+# Contents
+- CaseStudy_EDA&DataCleaning.ipynb: Includes initial data ingestion, exploratory analysis and data cleaning.
+- CaseStudy_Modeling.ipynb: Includes modelling and comparison of 7 models including Decision Tree (DT), Random Forest (RF), (L1 and L2
 regularized) Logistic Regression (LogR), Naıve Bayes (NB), and (multi-layer) Neural Network (NN).
-PredictiveModelingForInvestmentStrategies_ProjectReport.pdf: The project report with a summary of the results achieved. 
+- PredictiveModelingForInvestmentStrategies_ProjectReport.pdf: The project report with a summary of the results achieved. 
