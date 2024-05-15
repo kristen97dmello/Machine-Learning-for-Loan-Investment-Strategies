@@ -5,6 +5,8 @@ This project leveraged LendingClub's historical loan data to develop predictive 
 
 Data-driven investment strategies leverage historical data to predict future loan performance, optimizing return on investments through informed decision-making. By analyzing patterns in interest rates, default rates, and borrower creditworthiness, investors can identify loans with the best risk-return balance.
 
+The dataset contains more than hundred features, including the following, for each loan: Loan amount, Interest rate, Monthly installment amount, Several additional attributes about the borrower (type of house ownership, annual income, monthly FICO score, debt-to-income ratio, number of open credit lines, etc.), Loan status (e.g., fully paid, default, charged-off)
+
 Our analysis aims to help with three critical aspects of the investment landscape:
 - Risk Mitigation: Advanced analytics help in understanding potential default risks and economic trends, allowing investors to avoid high-risk loans.
 - Optimized Returns: Data-driven strategies aim to maximize returns by selecting loans that balance risk and reward effectively.
